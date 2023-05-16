@@ -1,0 +1,15 @@
+D:\projects\janat\EncryptionApp\bin\Debug\net6.0\EncryptionApp.exe
+D:\projects\janat\EncryptionApp\bin\Debug\net6.0\EncryptionApp.deps.json
+D:\projects\janat\EncryptionApp\bin\Debug\net6.0\EncryptionApp.runtimeconfig.json
+D:\projects\janat\EncryptionApp\bin\Debug\net6.0\EncryptionApp.dll
+D:\projects\janat\EncryptionApp\bin\Debug\net6.0\EncryptionApp.pdb
+D:\projects\janat\EncryptionApp\obj\Debug\net6.0\EncryptionApp.csproj.AssemblyReference.cache
+D:\projects\janat\EncryptionApp\obj\Debug\net6.0\EncryptionApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\janat\EncryptionApp\obj\Debug\net6.0\EncryptionApp.AssemblyInfoInputs.cache
+D:\projects\janat\EncryptionApp\obj\Debug\net6.0\EncryptionApp.AssemblyInfo.cs
+D:\projects\janat\EncryptionApp\obj\Debug\net6.0\EncryptionApp.csproj.CoreCompileInputs.cache
+D:\projects\janat\EncryptionApp\obj\Debug\net6.0\EncryptionApp.dll
+D:\projects\janat\EncryptionApp\obj\Debug\net6.0\refint\EncryptionApp.dll
+D:\projects\janat\EncryptionApp\obj\Debug\net6.0\EncryptionApp.pdb
+D:\projects\janat\EncryptionApp\obj\Debug\net6.0\EncryptionApp.genruntimeconfig.cache
+D:\projects\janat\EncryptionApp\obj\Debug\net6.0\ref\EncryptionApp.dll
